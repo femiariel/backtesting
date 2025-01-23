@@ -1,4 +1,4 @@
-# Backetesting trading strategies
+# Backtesting trading strategies
 
 This project implements a trading strategy based on moving averages (SMA and EMA) applied to stock price data. The main objective is to generate buy and sell signals and evaluate the performance of this strategy against a benchmark, the **S&P 500** index.
 
