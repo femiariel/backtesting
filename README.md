@@ -56,7 +56,7 @@ The **S&P 500 (SPY)** index is used as a benchmark to compare the strategy’s p
 
 2. **Run the code:**  
    Execute the main script to run the strategy, backtest it  and generate performance charts
-   ```  
-
+   ```  python backtesting.py
+   
 4. **Modify parameters:**  
    Change the stock tickers or SMA/EMA parameters directly in the code.
